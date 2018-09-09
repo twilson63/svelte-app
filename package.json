@@ -14,5 +14,8 @@
     "parcel-bundler": "^1.9.7",
     "parcel-plugin-svelte": "github:twilson63/parcel-plugin-svelte",
     "svelte": "^2.13.1"
-  }
+  },
+  "browserslist": [
+    "> 5%"
+  ]
 }
